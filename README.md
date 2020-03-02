@@ -1,4 +1,5 @@
 # game_coin
+
 Script create acount + refferal and verifikasi link verif
 
 simpel versi :v
@@ -18,3 +19,5 @@ use tools
  • php rdhoni.php gamecoin
  
 enjoy :v
+
+Link : https://dinggo.vip/
